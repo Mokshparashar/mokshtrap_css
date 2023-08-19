@@ -1,0 +1,8 @@
+.container {
+  width: 20rem;
+  height: 20rem;
+  background-color: blueviolet;
+  position: relative;
+  top: 50%;
+  left: 50%;
+}
